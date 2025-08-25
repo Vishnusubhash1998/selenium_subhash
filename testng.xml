@@ -3,6 +3,7 @@
     <test name="Checkout Flow">
         <classes>
             <class name="com.subhash.tests.SauceDemoPurchaseTest"/>
+            <class name="com.subhash.tests.LoginNegativeTest"/>
         </classes>
     </test>
 </suite>
